@@ -44,8 +44,6 @@ Vamos criar uma versão melhorada da seção **"Como Executar o Projeto"** do se
 
 -----
 
-### Versão Melhorada da Seção 4 do README:
-
 ## 4\. Como Executar o Projeto
 
 Você pode replicar esta análise de duas maneiras: utilizando o Google Colab (recomendado para simplicidade) ou em um ambiente local.
@@ -127,5 +125,5 @@ Este projeto foi desenvolvido por:
 
 **[Paulo Junior Walbueno Dos Santos]**
 
-  * **LinkedIn:** [https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/paulo-junior-ws)
-  * **GitHub:** [https://github.com/seu-usuario]([https://www.google.com/search?q=https://github.com/seu-usuario](https://github.com/paulojunior6886))
+  * **LinkedIn:** [[(https://www.linkedin.com/in/paulo-junior-ws)](https://www.linkedin.com/in/paulo-junior-ws)]
+  * **GitHub:** [[(https://github.com/paulojunior6886)](https://github.com/paulojunior6886)]
