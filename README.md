@@ -123,7 +123,7 @@ As visualizações detalhadas e as recomendações estratégicas baseadas nestes
 
 Este projeto foi desenvolvido por:
 
-**[Paulo Junior Walbueno Dos Santos]**
+**Paulo Junior Walbueno Dos Santos**
 
-  * **LinkedIn:** [[(https://www.linkedin.com/in/paulo-junior-ws)](https://www.linkedin.com/in/paulo-junior-ws)]
-  * **GitHub:** [[(https://github.com/paulojunior6886)](https://github.com/paulojunior6886)]
+  * **LinkedIn:** [(https://www.linkedin.com/in/paulo-junior-ws)](https://www.linkedin.com/in/paulo-junior-ws)
+  * **GitHub:** [(https://github.com/paulojunior6886)](https://github.com/paulojunior6886)]
